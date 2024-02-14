@@ -1,0 +1,69 @@
+.c {
+  background-color:blueviolet;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  color:black;
+  left: 40%;
+  top: 20%;
+  right: 40%;
+  bottom: 20%;
+}
+
+.form {
+  background-color:azure;
+  padding: 20px;
+  border-radius: 82px;
+  text-align: center;
+  width: 300px;
+  left: 40%;
+  top: 20%;
+  right: 40%;
+  bottom: 20%;
+}
+
+/* Style for the input labels */
+label {
+  font-weight: bold;
+}
+
+/* Style for the inputs */
+input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button {
+  background-color: #af594c;
+  border: none;
+  color:cyan;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: hellow;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 4px;
+  cursor: pointer;
+}
+/* App.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.phone {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
